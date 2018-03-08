@@ -103,10 +103,16 @@ def main(args):
             for j, ex in enumerate(sample):
                 loss += train_one(ex, update=False)
 
-            print("\n# Iteration {}   loss = {} ".format(i, loss / len(sample)))
-            for _ in range(10):
-                generation = generate()
-                print(generation, flush = True)
+            sys.stderr.write("\n# Iteration {}   loss = {}\n".format(i, loss / len(sample)))
+            
+            predictions = [generate() for i in range(args.num_generation)]
+            if args.sncf:
+                voie = np.random.choice(list("ABCDEFG"))
+                print("Le train, en provenance de {} et à destination de {}, partira voie {}.".format(predictions[0], predictions[1], voie), flush=True)
+                print("Il desservira les gares de {} et son terminus {}.".format(", ".join(predictions[2:-1]), predictions[-1]), flush=True)
+            else:
+                for p in predictions:
+                    print(p, flush=True)
 
             random.shuffle(data)
 
@@ -121,5 +127,9 @@ if __name__ == "__main__":
     parser.add_argument("--size-states","-s", type=int, default=50, help="Dimension of LSTM states")
     parser.add_argument("--hyphen", action="store_true", help="Only train on hyphenated town names")
     parser.add_argument("--num-generation", "-n", type=int, default=10, help="Number of generated examples after each iteration")
+    parser.add_argument("--sncf", action="store_true")
     args = parser.parse_args()
+    if args.sncf:
+        args.num_generation = max(args.num_generation, 5)
     main(args)
+    
