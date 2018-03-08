@@ -1,0 +1,241 @@
+Number of training examples: 14014
+
+# Iteration 0   loss = 34.07348981666565 
+Saint-Pran-De-Enner
+Dubauvesy-Dorrien
+Saint-Cousain-Mois
+Saint-Jesy
+Cyzeriley-Endhèvis
+Sanniy-Lèsue-Lacd-Montie
+Saint-Atin
+Saint-Ièmont
+Lostioly-Sur-Baubon
+Mercoy-Sures
+
+# Iteration 1   loss = 32.174898705482484 
+Cvorconch-Anspierre
+Rone-Lemotemon
+Aunanenant-La-Bontie
+Pran-Le-Drens
+Malaupone-Sur-Dois
+Frux-D'Ésaine
+Chérichavlé-Chalamcon
+Sainte-Germer-Lo-Haugoge
+Sainte-Celmain-D'Oulaipe
+Beaux-Léssargy
+
+# Iteration 2   loss = 31.170930365562437 
+Saint-Croliené
+Saint-Mirtal-En-Sylanhonne
+Piellervillières-Le-Bousère
+Sainte-Pemarcy
+Saint-Christic-De-Lofrâva
+Brauvion-Lès-Baullièxs
+Mas-D'Éviong
+Saint-Jesan-De-Colaine
+Saint-Cordide-Du-Dausse
+Méret-Lès-Marols
+
+# Iteration 3   loss = 30.594901116371155 
+Roigny-Sur-Éoussuers-Dé-Harnes
+Saint-Percé
+Mecite-Du-Abiaurin
+Saint-Maron-Le-Bognamoix
+Châteve-Pessert
+Gearsseriers-Vêgny
+Saint-Pierlen-De-Ficêtése
+Gran-En-Buss
+Saint-Gevris-D'Abrey
+Saint-Vaudroy-Le-Balon
+
+# Iteration 4   loss = 30.23995599937439 
+Éont-Sur-Doillin
+Hompau-Ain
+Saint-Corrin-Le-Manca
+Frée-Cisel
+Droulasse-Cotere
+Triroy-Sainte-Martavière
+Saint-Goverre-Des-Vion
+Villéevilleury-En-Léroy
+Borgnat-Les-Brison
+Saint-Martienant-La-Verdenu
+
+# Iteration 5   loss = 29.876665347576143 
+Lieguagne-Es-Auvêse
+Saint-Loangeuz
+La Nelon-Saint-Mothain
+Chailly-Le-Fauteil
+Saint-Germène
+L'Hetryons-Néerré
+Villers-Neurtoc
+Berdières-D'Abois
+Lavère-Roup
+Dusnieuvilbais-Sur-Alandy
+
+# Iteration 6   loss = 29.646827662467956 
+Assin-D'Abreuldon
+Saint-Symor-D'Ors
+Saint-Compaux-D'Églais
+Grice-Sur-Comché
+Sévignac-Lampsoin
+Saint-Jean-Vénouze
+Mimy-Des-Montrau
+Labor
+Montasse-Andrais
+Qur-Brian
+
+# Iteration 7   loss = 29.435442967891692 
+Lonignans-En-Récelmes
+Farzy-Nambès
+Saint-Marton
+Gâtréard-Boumarde
+Gerrirs-Sur-Vay
+Bois-En-Banterieux
+Chéel-Verrencoult
+Saint-Morien
+Saint-Barbreau
+Beauliene-Vierse-Guer
+
+# Iteration 8   loss = 29.285044339179994 
+Saint-Perre-Briez
+Naillacle-Sur-Alhon
+Port-Sainty-De-Pontagne
+Euderiles-Sur-Aille
+Folans-Aux-Pagnallon
+Saint-Mistir-Merroille
+Agneugnard-Marrot
+Cussasselles-En-Cagen
+Foncele-La-Pidrons
+Boulnay-Sur-Thiler
+
+# Iteration 9   loss = 29.167819876194 
+Mouivry-Sur-Rié
+Neuville-Sur-Begne
+Pougny-Sur-Le-Sautre
+Mitigno-D'Aline
+Neuville-Sur-Minay
+Mornigne-Yré
+Mainec-Haul-D'Èène
+Saint-Oinemaux-En-Berce
+Sauix-Les-Hauhac
+Gocomorey-Sur-Andre
+
+# Iteration 10   loss = 28.96281350851059 
+Le Plierlois-Macelle
+Colorin-La-Veix
+Roillau-Sur-Roubsto
+L'Écyavie-Priec
+Bonge-Sur-Seœu
+Saint-Germin
+Mavillars-Mermac
+Déchusse-Sur-Gran
+Préry-Sur-Audler
+Saint-Jéon
+
+# Iteration 11   loss = 28.90099329185486 
+Aumoctes-Lès-Les-Brès
+Saint-Pierre-D'Éef
+Lévrivier-L'Yonne
+Horgy-Le-Brut
+La Motes-En-Saint-Lic
+Grhinou-Lavarne
+Ervarçe-La-Gézon
+Naunay-Vellève
+Casmanzens-En-Banléec
+Sally-Sous-Bresson
+
+# Iteration 12   loss = 28.81752721118927 
+Bugnay-Le-Bris
+Mouche-En-Livrès
+Pontignassy-Des-Buzade
+Sainte-Mollet-Sur-Mesnil
+Saint-Andé
+Cazaur-Le-Corgon
+Ujisse-En-Proix
+Saint-Jean
+Blennes-La-Rivillar
+Berriève-Aux-Barnin
+
+# Iteration 13   loss = 28.697544727802278 
+Poisd-Les-Longn
+Valles-Le-Magnes
+Waux-De-Ribeaudebagard
+Saint-Laurent-Du-Pierre
+Sainte-Vidier
+Évole-Saint-Étienne
+Saint-Ré-Sein
+Nonqtemard-Vercourt
+Saint-Mannin
+Saint-Mantien-Loëvrequon
+
+# Iteration 14   loss = 28.771545748710633 
+Saint-Aédard-Du-Châtel
+La Matte-Sur-Thuze
+Le Mierriers-Suinhe
+Saint-Laurent-De-Folin
+Mercourt-Sur-D'Édes
+Saint-Gemannin-Sur-Louir
+Bâcene-Et-Tordainet
+Saint-Marton-En-Brazers
+La Romble-Nomingères
+Cordou-Sur-Menonne
+
+# Iteration 15   loss = 28.7030080909729 
+Heaulegne-Gouble
+Guzuls-Lès-Garies
+Beuville-Le-Mouist
+Cotteneculières-Eu
+Saint-Berthe-De-Thére
+Saint-Colomont-La-Mauts
+Salais-Lautelle
+Saint-Georgon
+Gennes-Ribord
+Le Plerman-Vière
+
+# Iteration 16   loss = 28.613126892089845 
+Riville
+Le Beaulet-De-Colizie
+Saint-Vin-Sur-Marsse
+Hampac-Les-Ohas
+Sureuil-Salle
+La Chope-D'Aubisson
+Saint-Singest-Du-Touois
+La Bré-Fartoure
+Saint-Loc
+Lumontin-Bustes
+
+# Iteration 17   loss = 28.530293381690978 
+Saint-Bart-Noiy-Lès-Mérorne
+Dalbancard-Les-Barse
+Saint-Cyr
+Sainte-Thigis
+Saint-Blorent
+Teauliers-Sorgues
+Saint-Mylard
+Paroil-En-Bouvenil
+Blermirierrau-Sur-Sauson
+Saint-Clairses
+
+# Iteration 18   loss = 28.483720519542693 
+Armon-L'Hipbéte
+La Chapelle-Aubelles
+Maisigny-Sur-Loissel
+Saint-Blouarne
+Noimpavy-Fontagne
+Rost-En-Villes
+Saint-Maécent-Ducure
+Sameyvé-Le-Capelle
+La Chapelle-Curraux
+Sécourt-En-Dunein
+
+# Iteration 19   loss = 28.406712933063506 
+La Brée-La-Dautes
+La Bave-Hauce
+Lasbron-Aux-Macq
+Truistes-En-Ethon
+Cômerty-Les-Bosseyau
+Saint-Cornaig-Forans
+Le Borbisy-Les-Diville
+Pernemy-Le-Grâia
+La Roncourt-Le-Comme
+Écare-Lès-Suye
