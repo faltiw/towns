@@ -1,7 +1,7 @@
 
 Generate French Town names with an LSTM character language model
 
-    usage: python3 network.py -i <training epochs> -s <state size> -c <character embedding size> --hyphen
+    usage: python3 network.py -i <training epochs> -s <state size> -c <character embedding size> -n <num generations after each epoch> [--hyphen] [--sncf]
 
 
 Dependencies:

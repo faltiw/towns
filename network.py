@@ -108,7 +108,7 @@ def main(args):
             predictions = [generate() for i in range(args.num_generation)]
             if args.sncf:
                 voie = np.random.choice(list("ABCDEFG"))
-                print("Le train, en provenance de {} et à destination de {}, partira voie {}.".format(predictions[0], predictions[1], voie), flush=True)
+                print("Le train TER, en provenance de {} et à destination de {}, partira voie {}.".format(predictions[0], predictions[1], voie), flush=True)
                 print("Il desservira les gares de {} et son terminus {}.".format(", ".join(predictions[2:-1]), predictions[-1]), flush=True)
             else:
                 for p in predictions:
@@ -120,7 +120,7 @@ def main(args):
 
 if __name__ == "__main__":
     import argparse
-    usage = """Train an LSTM to generate French town names"""
+    usage = """Train an LSTM language model to generate French town names"""
     parser = argparse.ArgumentParser(description = usage, formatter_class=argparse.RawTextHelpFormatter)
     parser.add_argument("--iterations","-i", type=int, default=50, help="Number of training iterations")
     parser.add_argument("--size-embeddings","-c", type=int, default=50, help="Dimension of character embeddings")
